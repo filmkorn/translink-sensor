@@ -1,5 +1,7 @@
 # Translink Sensor
 
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
+
 This is home assistant custom component to pull bus times from TransLink Open API.  This is pretty limited right now, simply pulling in the next three times for a given stop and route.
 
 There is a lovelace ui custom card available here: https://github.com/math0ne/translink-card
